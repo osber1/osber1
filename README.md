@@ -15,8 +15,5 @@
 
 
 </div>
-  <div align="center">
-  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=osber1&theme=dark">
-  </div>
   <h2>🏆 GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=osber1&theme=nord&column=7" >
