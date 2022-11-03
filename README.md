@@ -12,8 +12,3 @@
 
   <p align="center">
     <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osber1&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark"/>
-
-
-</div>
-  <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=osber1&theme=nord&column=7" >
